@@ -19,12 +19,6 @@ Additionally I added [vite-svg-loader](https://github.com/jpkleemans/vite-svg-lo
 ## Install
 
 ```
-npm i @richardev/vue3-boilerplate
-```
-
-or
-
-```
 git clone https://github.com/smart92dev/vue3-pinia-boilerplate.git
 ```
 

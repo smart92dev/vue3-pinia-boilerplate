@@ -12,3 +12,9 @@ app.use(createPinia());
 app.use(router);
 
 app.mount("#app");
+
+
+
+// .github/FUNDING.yml
+// github: [smart92dev]
+// custom: ['buymeacoffee.com/smart92dev', 'revolut.me/smart92dev']
